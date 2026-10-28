@@ -3,8 +3,8 @@
 학번: D20250166
 이름: Abdurashid Doniyorov
 
-GitHub 저장소 URL: ____________________________________________
-Streamlit 앱 URL:  https://____________________.streamlit.app
+GitHub 저장소 URL: https://github.com/adoniyorov/openbook
+Streamlit 앱 URL:  https://openbook.streamlit.app
 
 
 [추가한 메뉴]
